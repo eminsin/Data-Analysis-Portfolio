@@ -1,12 +1,13 @@
 # Data-Analysis-Portfolio-Projects
 
 ## Description
+:pushpin: This repo contains **2 SQL**, **1 EXCEL**, **1 TABLEAU**, **1 POWER BI** and **3 PYTHON** projects I created to showcase my data analysis skills.  
+
+:pushpin: Additionally, please see the repos below to check or to learn   
++ [Data Analysis with :registered:](https://github.com/eminsin/Learn-R-for-Data-Analysis)    
++ [Statistics and Regression Analysis with :registered:](https://github.com/eminsin/Learn-Statistics-and-Regression-Analysis)   
 ## Author
-Erkam Minsin
-+ Please reach: [LinkedIn](https://www.linkedin.com/in/erkam-minsin-msc-37537514a/)
-## Code
-+ Scripted and Executed on: **SQL Server 19.0.1, MS Excel, Python 3.11.2, Jupyter Notebook, Tableau, Power BI** 
-+ Dependent on : **os, shutil, (bs4) BeautifulSoup, requests, time, datetime, smtplib**
+:copyright: Erkam Minsin    :email: [Send a message](https://www.linkedin.com/in/erkam-minsin-msc-37537514a/)
 ## Projects
 ### [Project 1: Covid 2023 Data Exploration](https://github.com/eminsin/Data-Analysis-Portfolio-Projects/blob/main/Covid2023.sql)
 + Scripted on: **SQL Server 19.0.1**
@@ -27,16 +28,24 @@ Erkam Minsin
 + Scripted on: **Jupyter Notebook**
 + Python Version: **3.11.2**
 + Dependent on: None
-### [Project 7: Python_Automatic File Sorter](https://github.com/eminsin/Data-Analysis-Portfolio-Projects/blob/main/Automatic%20Files%20Sorter.ipynb)
+### [Project 7: Automatic File Sorter](https://github.com/eminsin/Data-Analysis-Portfolio-Projects/blob/main/Automatic%20Files%20Sorter.ipynb)
 + Scripted on: **Jupyter Notebook**
 + Python Version: **3.11.2**
 + Dependent on: **os, shutil packages**
-### [Project 8: Python_Amazon Web Scraping](https://github.com/eminsin/Data-Analysis-Portfolio-Projects/blob/main/Amazon%20Web%20Scraping%20Using%20Python.ipynb)
+### [Project 8: Amazon Web Scraping](https://github.com/eminsin/Data-Analysis-Portfolio-Projects/blob/main/Amazon%20Web%20Scraping%20Using%20Python.ipynb)
 + Scripted on: **Jupyter Notebook**
 + Python Version: **3.11.2**
 + Dependent on: **(from bs4) BeautifulSoup, requests, time, datetime, smtplib packages**
 
-## Reference
-[Alex The Analyst](https://www.youtube.com/watch?v=rGx1QNdYzvs&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF)
+## Resources
+:copyright: [Alex The Analyst](https://www.youtube.com/watch?v=rGx1QNdYzvs&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF)   
 
-![](https://github.com/eminsin/Data-Analysis-Portfolio-Projects/blob/main/certification/Data%20Analytics%20Bootcamp%20Certification%20of%20Completion.png)
+:pushpin: Please check below to see what I know in the background to complete these projects.   
+
+  :man_student: [SQL](https://github.com/eminsin/Learn-SQL-for-Data-Analysis)   
+  :man_student: [Excel](https://github.com/eminsin/Learn-Excel-for-Data-Analysis)   
+  :man_student: [Power BI](https://github.com/eminsin/Learn-PowerBI-for-Data-Analysis)    
+  :man_student: [Python](https://github.com/eminsin/Learn-Python-for-Data-Analysis)   
+  
+![](https://github.com/eminsin/Data-Analysis-Portfolio-Projects/blob/main/certification/Data%20Analytics%20Bootcamp%20Certification%20of%20Completion.png)   
+  
