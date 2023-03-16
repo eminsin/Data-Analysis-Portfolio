@@ -17,7 +17,7 @@ Erkam Minsin
 ### [Project 3: Bike Sales Data Cleaning and Dashboard Creation](https://github.com/eminsin/Data-Analysis-Portfolio-Projects/blob/main/Excel%20Project%20Dataset.xlsx)
 + Cleaned and Designed on: **MS Excel**
 + Data Source: **[Link](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx)**
-### [Project 4: AirBnB Seattle Prices Data Dashboard Creation](https://public.tableau.com/app/profile/erkam.minsin/viz/VizofAirBnBSeattle/Dashboard1)
+### [Project 4: AirBnB Prices Data Cleaning and Dashboard Creation](https://public.tableau.com/app/profile/erkam.minsin/viz/VizofAirBnBSeattle/Dashboard1)
 + Cleaned on: **MS Excel** and Designed on: **Tableau**
 + Data Source: **[Link](https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset)**
 ### [Project 5: Data Professional Survey Data Cleaning and Dashboard Creation](https://github.com/eminsin/Data-Analysis-Portfolio-Projects/blob/main/Project.pbix)
