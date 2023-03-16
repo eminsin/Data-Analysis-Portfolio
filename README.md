@@ -5,14 +5,14 @@
 Erkam Minsin
 + Please reach: [LinkedIn](https://www.linkedin.com/in/erkam-minsin-msc-37537514a/)
 ## Code
-+ Scripted and Executed on: **SQL Server, MS Excel, Python 3.11.2, Jupyter Notebook, Tableau, Power BI** 
++ Scripted and Executed on: **SQL Server 19.0.1, MS Excel, Python 3.11.2, Jupyter Notebook, Tableau, Power BI** 
 + Dependent on : **os, shutil, (bs4) BeautifulSoup, requests, time, datetime, smtplib**
 ## Projects
 ### [Project 1: Covid 2023 Data Exploration](https://github.com/eminsin/Data-Analysis-Portfolio-Projects/blob/main/Covid2023.sql)
-+ Scripted on: **SQL Server**
++ Scripted on: **SQL Server 19.0.1**
 + Data Source: **[Link](https://ourworldindata.org/covid-deaths)**
 ### [Project 2: Housing Data Cleaning](https://github.com/eminsin/Data-Analysis-Portfolio-Projects/blob/main/NashvilleHousing.sql)
-+ Scripted on: **SQL Server**
++ Scripted on: **SQL Server 19.0.1**
 + Data Source: **[Link](https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx)**
 ### [Project 3: Bike Sales Data Cleaning and Dashboard Creation](https://github.com/eminsin/Data-Analysis-Portfolio-Projects/blob/main/Excel%20Project%20Dataset.xlsx)
 + Cleaned and Designed on: **MS Excel**
