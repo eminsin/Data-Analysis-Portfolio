@@ -5,7 +5,7 @@
 
 :pushpin: Additionally, please see the repos below to check or to learn   
 + [Data Analysis with :registered:](https://github.com/eminsin/Learn-R-for-Data-Analysis)    
-+ [Statistics and Regression Analysis with :registered:](https://github.com/eminsin/Learn-Statistics-and-Regression-Analysis)   
++ [Statistical and Regression Analysis with :registered:](https://github.com/eminsin/Learn-Statistics-and-Regression-Analysis)   
 ## Author
 :copyright: Erkam Minsin    :email: [Send a message](https://www.linkedin.com/in/erkam-minsin-msc-37537514a/)
 ## Projects
