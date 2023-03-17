@@ -37,15 +37,12 @@
 + Python Version: **3.11.2**
 + Dependent on: **(from bs4) BeautifulSoup, requests, time, datetime, smtplib packages**
 
-## Resources
-:copyright: [Alex The Analyst](https://www.youtube.com/watch?v=rGx1QNdYzvs&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF)   
-
+## Resources 
 :pushpin: Please check below to see what I know in the background to complete these projects.   
 
   :man_student: [SQL](https://github.com/eminsin/Learn-SQL-for-Data-Analysis)   
   :man_student: [Excel](https://github.com/eminsin/Learn-Excel-for-Data-Analysis)   
   :man_student: [Power BI](https://github.com/eminsin/Learn-PowerBI-for-Data-Analysis)    
   :man_student: [Python](https://github.com/eminsin/Learn-Python-for-Data-Analysis)   
-  
-![](https://github.com/eminsin/Data-Analysis-Portfolio-Projects/blob/main/certification/Data%20Analytics%20Bootcamp%20Certification%20of%20Completion.png)   
+    
   
