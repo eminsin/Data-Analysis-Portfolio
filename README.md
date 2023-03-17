@@ -37,9 +37,7 @@
 + Python Version: **3.11.2**
 + Dependent on: **(from bs4) BeautifulSoup, requests, time, datetime, smtplib packages**
 
-## Resources 
-:pushpin: Please check below to see what I know in the background to complete these projects.   
-
+## Resources    
   :man_student: [SQL](https://github.com/eminsin/Learn-SQL-for-Data-Analysis)   
   :man_student: [Excel](https://github.com/eminsin/Learn-Excel-for-Data-Analysis)   
   :man_student: [Power BI](https://github.com/eminsin/Learn-PowerBI-for-Data-Analysis)    
