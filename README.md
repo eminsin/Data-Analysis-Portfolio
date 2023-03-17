@@ -34,15 +34,17 @@
 + Scripted on: **Jupyter Notebook**
 + Python Version: **3.11.2**
 + Dependent on: None
++ Level: Beginner
 ### :chart_with_upwards_trend: [Project 7: Automatic File Sorter](https://github.com/eminsin/Data-Analysis-Portfolio-Projects/blob/main/Automatic%20Files%20Sorter.ipynb)
 + Scripted on: **Jupyter Notebook**
 + Python Version: **3.11.2**
 + Dependent on: **os, shutil packages**
++ Level: Beginner
 ### :chart_with_upwards_trend: [Project 8: Amazon Web Scraping](https://github.com/eminsin/Data-Analysis-Portfolio-Projects/blob/main/Amazon%20Web%20Scraping%20Using%20Python.ipynb)
 + Scripted on: **Jupyter Notebook**
 + Python Version: **3.11.2**
 + Dependent on: **pandas, BeautifulSoup, requests, time, datetime, smtplib packages**
-
++ Level: Intermediate
 ## Resources    
   :man_student: [SQL](https://github.com/eminsin/Learn-SQL-for-Data-Analysis)   
   :man_student: [Excel](https://github.com/eminsin/Learn-Excel-for-Data-Analysis)   
