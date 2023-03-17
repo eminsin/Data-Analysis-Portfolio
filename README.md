@@ -17,13 +17,19 @@
 + Data Source: **[Link](https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx)**
 ### :chart_with_upwards_trend: [Project 3: Bike Sales Data Cleaning and Dashboard Creation](https://github.com/eminsin/Data-Analysis-Portfolio-Projects/blob/main/Excel%20Project%20Dataset.xlsx)
 + Cleaned and Designed on: **MS Excel**
-+ Data Source: **[Link](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx)**
++ Data Source: **[Link](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx)**    
+
+![](https://github.com/eminsin/Data-Analysis-Portfolio/blob/main/certification/Excel2.png)
 ### :chart_with_upwards_trend: [Project 4: AirBnB Prices Data Cleaning and Dashboard Creation](https://public.tableau.com/app/profile/erkam.minsin/viz/VizofAirBnBSeattle/Dashboard1)
 + Cleaned on: **MS Excel** and Designed on: **Tableau**
-+ Data Source: **[Link](https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset)**
++ Data Source: **[Link](https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset)**    
+
+![](https://github.com/eminsin/Data-Analysis-Portfolio/blob/main/certification/Tableau2.png)
 ### :chart_with_upwards_trend: [Project 5: Data Professional Survey Data Cleaning and Dashboard Creation](https://github.com/eminsin/Data-Analysis-Portfolio-Projects/blob/main/Project.pbix)
 + Cleaned and Designed on: **Power BI**
-+ Data Source: **[Link](https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx)**
++ Data Source: **[Link](https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx)**    
+
+![](https://github.com/eminsin/Data-Analysis-Portfolio/blob/main/certification/PowerBI2.png)
 ### :chart_with_upwards_trend: [Project 6: BMI Calculator](https://github.com/eminsin/Data-Analysis-Portfolio-Projects/blob/main/BMI%20Calculator%20.ipynb)
 + Scripted on: **Jupyter Notebook**
 + Python Version: **3.11.2**
