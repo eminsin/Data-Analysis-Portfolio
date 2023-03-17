@@ -9,7 +9,7 @@
 ## Author
 :copyright: Erkam Minsin    :email: [Send a message](https://www.linkedin.com/in/erkam-minsin-msc-37537514a/)
 ## Projects
-### :chart_with_upwards_trend: [Project 1: Covid 2023 Data Exploration](https://github.com/eminsin/Data-Analysis-Portfolio-Projects/blob/main/Covid2023.sql)
+### :chart_with_upwards_trend: [Project 1: Covid-19 Data Exploration](https://github.com/eminsin/Data-Analysis-Portfolio-Projects/blob/main/Covid2023.sql)
 + Scripted on: **SQL Server 19.0.1**
 + Data Source: **[Link](https://ourworldindata.org/covid-deaths)**
 ### :chart_with_upwards_trend: [Project 2: Housing Data Cleaning](https://github.com/eminsin/Data-Analysis-Portfolio-Projects/blob/main/NashvilleHousing.sql)
