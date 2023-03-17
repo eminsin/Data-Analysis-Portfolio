@@ -35,7 +35,7 @@
 ### :chart_with_upwards_trend: [Project 8: Amazon Web Scraping](https://github.com/eminsin/Data-Analysis-Portfolio-Projects/blob/main/Amazon%20Web%20Scraping%20Using%20Python.ipynb)
 + Scripted on: **Jupyter Notebook**
 + Python Version: **3.11.2**
-+ Dependent on: **(from bs4) BeautifulSoup, requests, time, datetime, smtplib packages**
++ Dependent on: **pandas, BeautifulSoup, requests, time, datetime, smtplib packages**
 
 ## Resources    
   :man_student: [SQL](https://github.com/eminsin/Learn-SQL-for-Data-Analysis)   
