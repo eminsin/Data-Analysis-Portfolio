@@ -3,7 +3,7 @@
 ## Description
 :pushpin: This repo contains **2 SQL**, **1 EXCEL**, **1 TABLEAU**, **1 POWER BI** and **3 PYTHON** projects I created to showcase my data analysis skills.  
 
-:pushpin: Additionally, please see the repos below to check or to learn   
+:pushpin: Additionally, please see the repos below to check   
 + [Data Analysis with :registered:](https://github.com/eminsin/Learn-R-for-Data-Analysis)    
 + [Statistical and Regression Analysis with :registered:](https://github.com/eminsin/Learn-Statistics-and-Regression-Analysis)   
 ## Author
